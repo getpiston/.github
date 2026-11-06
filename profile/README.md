@@ -112,10 +112,12 @@ For performance we threw in the kitchen sink: the highest-frequency CPUs, hyper-
 
 Deep observability into resource percentiles during execution lets Piston suggest or auto-tune the right size for your job.
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/sizing.png">
-  <img src="assets/sizing.gif" width="100%" alt="A job's utilization panel at each percentile, with its last 30 runs and a suggested resize.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/sizing.png">
+    <img src="assets/sizing.gif" width="516" alt="A job's utilization panel at each percentile, with its last 30 runs and a suggested resize.">
+  </picture>
+</p>
 
 ---
 
